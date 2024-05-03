@@ -1,17 +1,12 @@
-import Header from './Components/Header';
-import Footer from './Components/Footer';
-import Main from './Components/Main';
-import Wrapper from './Components/Wrapper';
-
+import Hello from './Components/Hello';
+import Welcome from './Components/Welcome';
+import styles from './Components/App.module.css';
 
 function App() {
   return (
-    <div>
-      <Header/>
-      <Wrapper>
-        <Main name="안민하"/>
-      </Wrapper>
-      <Footer/>
+    <div className='APP'>
+      <Hello/>
+      <div className={styles.box} />
     </div>
   );
 }
