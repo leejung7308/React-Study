@@ -5,8 +5,9 @@ import styles from './Components/App.module.css';
 function App() {
   return (
     <div className='APP'>
-      <Hello/>
-      <div className={styles.box} />
+    <Hello/>
+    <Hello/>
+    <Hello/>
     </div>
   );
 }
