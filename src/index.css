@@ -48,6 +48,22 @@ a {
   font-weight: bold;
   border-radius: 4px;
 }
+.day_header{
+  position: relative;
+}
+.day_header .day_menu {
+  position: absolute;
+  top: 10px;
+  left: 15%;
+}
+.day_header .link{
+  border: 1px solid #333;
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #efefef;
+  font-weight: bold;
+  border-radius: 4px;
+}
 
 .list_day {
   display: flex;
@@ -68,11 +84,6 @@ a {
   text-align: center;
   border-radius: 10px;
   background-color: dodgerblue;
-}
-
-table {
-  border-collapse: collapse;
-  width: 100%;
 }
 table td {
   width: 25%;
