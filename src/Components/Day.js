@@ -8,7 +8,6 @@ export default function Day(){
     const day = useParams().day;
     const words = useFetch(`http://localhost:3001/words?day=${day}`);
     const days = useFetch('http://localhost:3001/days');
-
     return (
         <>
             <div className="day_header">

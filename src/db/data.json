@@ -13,80 +13,59 @@
       "day": 3
     },
     {
-      "id": "577c",
+      "id": "4",
       "day": 4
     },
     {
-      "id": "da50",
+      "id": "5",
       "day": 5
     },
     {
-      "id": "56b2",
+      "id": "6",
       "day": 6
     }
   ],
   "words": [
     {
-      "id": "1",
+      "id": "5d00",
       "day": 1,
-      "eng": "book",
-      "kor": "책",
+      "eng": "Minha",
+      "kor": "민하",
       "isDone": false
     },
     {
-      "id": "3",
+      "id": "0054",
       "day": 2,
-      "eng": "car",
-      "kor": "자동차",
+      "eng": "I",
+      "kor": "내가",
       "isDone": false
     },
     {
-      "id": "4",
-      "day": 2,
-      "eng": "pen",
-      "kor": "펜",
-      "isDone": false
-    },
-    {
-      "id": "5",
+      "id": "6baa",
       "day": 3,
-      "eng": "school",
-      "kor": "학교",
+      "eng": "love",
+      "kor": "사랑해",
       "isDone": false
     },
     {
-      "id": "6",
-      "day": 3,
-      "eng": "pencil",
-      "kor": "연필",
+      "id": "d285",
+      "day": 4,
+      "eng": "you",
+      "kor": "너를",
       "isDone": false
     },
     {
-      "id": "e8e5",
-      "day": "3",
-      "eng": "window",
-      "kor": "창문",
+      "id": "b75e",
+      "day": 5,
+      "eng": "so",
+      "kor": "겁나",
       "isDone": false
     },
     {
-      "id": "10bf",
-      "day": "1",
-      "eng": "house",
-      "kor": "집",
-      "isDone": false
-    },
-    {
-      "id": "6cfb",
-      "day": "2",
-      "eng": "teacher",
-      "kor": "선생님",
-      "isDone": false
-    },
-    {
-      "id": "f7b9",
-      "day": "4",
-      "eng": "monkey",
-      "kor": "원숭이",
+      "id": "614d",
+      "day": 6,
+      "eng": "much",
+      "kor": "많이",
       "isDone": false
     }
   ]

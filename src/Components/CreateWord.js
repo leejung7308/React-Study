@@ -7,7 +7,7 @@ export default function CreateWord(){
     const days = useFetch('http://localhost:3001/days');
     const navigate = useNavigate();
     const [isLoading, setIsLoading] = useState(false);
-
+    
     function onSubmit(e){
         e.preventDefault();
         
@@ -20,7 +20,7 @@ export default function CreateWord(){
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({
-                    day: dayRef.current.value,
+                    day: Number(dayRef.current.value),
                     eng: engRef.current.value,
                     kor: korRef.current.value,
                     isDone: false,

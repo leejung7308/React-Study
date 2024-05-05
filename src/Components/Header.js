@@ -11,7 +11,7 @@ export default function Header(){
                     단어 추가
                 </Link>
                 <Link to="/create_day" className="link">
-                    Day 추가
+                    Day 관리
                 </Link>
             </div>
         </div>
